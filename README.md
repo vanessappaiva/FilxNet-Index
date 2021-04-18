@@ -1,6 +1,6 @@
 # Clone ui for study react
 
-FLIXNET
+## FLIXNET
 
 data from https://api.themoviedb.org/3
 
